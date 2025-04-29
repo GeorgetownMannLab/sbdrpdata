@@ -1,4 +1,40 @@
-# Shark Bay Dolphin Research Project
-public data access
 
-<img src="https://github.com/GeorgetownMannLab/sbdrpdata/blob/main/shark%20bay%20dolphins.png" alt="hex sticker" width="200"/>
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# sbdrpdata <a href='https://www.monkeymiadolphins.org'><img src="man/figures/shark bay dolphins.png" align="right" height="138.5"/></a>
+
+<!-- badges: start -->
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3960218.svg)](https://doi.org/10.5281/zenodo.3960218)
+
+<!-- badges: end -->
+
+The goal of sbdrpdata (shark bay dolphin research project data) is to
+provide open access to the data collected during the ongoing long-term
+study of wild Indo-Pacific bottlenose dolphins (*Tursiops aduncus*) in
+Shark Bay, Western Australia.
+
+<img src="man/figures/KMplotsexed.png" align="center" height="250"/>
+
+To install the development version from [GitHub](https://github.com/)
+use:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("GeorgetownMannLab/sbdrpdata")
+```
+
+## About the data
+
+Data were collated and made available by [Dr. Janet
+Mann](https://gufaculty360.georgetown.edu/s/contact/00336000014RY0bAAG/janet-mann)
+through the [Shark Bay Dolphin Research
+Project](www.monkeymiadolphins.org), with support from the [National
+Science Foundation](https://nsf.gov/).
+
+The sbdrpdata package contains three datasets.
+
+``` r
+library(sbdrpdata)
+data(package = 'sbdrpdata')
+```

@@ -5,6 +5,8 @@
 
 <!-- badges: start -->
 
+[![DOI](https://zenodo.org/badge/974634073.svg)](https://doi.org/10.5281/zenodo.17664438)
+
 <!-- badges: end -->
 
 The goal of sbdrpdata (shark bay dolphin research project data) is to

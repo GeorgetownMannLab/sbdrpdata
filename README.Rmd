@@ -40,7 +40,7 @@ remotes::install_github("GeorgetownMannLab/sbdrpdata")
 
 ## About the data
 
-Data were collated and made available by [Dr. Janet Mann](https://gufaculty360.georgetown.edu/s/contact/00336000014RY0bAAG/janet-mann) through the [Shark Bay Dolphin Research Project](www.monkeymiadolphins.org), with support from the [National Science Foundation](https://nsf.gov/). 
+Data were collated and made available by [Dr. Janet Mann](https://gufaculty360.georgetown.edu/s/contact/00336000014RY0bAAG/janet-mann) through the [Shark Bay Dolphin Research Project](https://www.monkeymiadolphins.org), with support from the [National Science Foundation](https://nsf.gov/). 
 
 The sbdrpdata package contains three datasets. 
 

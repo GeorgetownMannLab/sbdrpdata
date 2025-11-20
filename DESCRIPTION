@@ -1,12 +1,12 @@
 Package: sbdrpdata
-Title: What the Package Does (One Line, Title Case)
+Title: Shark Bay Dolphin Research Project Data
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    c(person("Mann", "Janet", , "mannj2@georgetown.edu", role = c("aut"),
+           comment = c(ORCID = "0000-0003-0664-175X")), person("Foroughirad", "Vivienne", , "vforough@tamu.edu", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8656-7440")))
+Description: sbdrpdata (shark bay dolphin research project data) provides open access to the data collected during the ongoing long-term study of wild Indo-Pacific bottlenose dolphins (Tursiops aduncus) in Shark Bay, Western Australia
+License: `use_mit_license()`
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2

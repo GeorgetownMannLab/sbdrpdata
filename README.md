@@ -29,8 +29,8 @@ remotes::install_github("GeorgetownMannLab/sbdrpdata")
 Data were collated and made available by [Dr. Janet
 Mann](https://gufaculty360.georgetown.edu/s/contact/00336000014RY0bAAG/janet-mann)
 through the [Shark Bay Dolphin Research
-Project](www.monkeymiadolphins.org), with support from the [National
-Science Foundation](https://nsf.gov/).
+Project](https://www.monkeymiadolphins.org), with support from the
+[National Science Foundation](https://nsf.gov/).
 
 The sbdrpdata package contains three datasets.
 
@@ -137,19 +137,19 @@ head(life_history)
 #> 5     ID0005 UNKNOWN                  ID1565      <NA> 2006-11-01
 #> 6     ID0006 UNKNOWN                  ID1950      <NA> 2003-11-01
 #>   Birth.Date.Accuracy Birth.Date.Earliest Birth.Date.Latest Death.Date
-#> 1       YEAR ESTIMATE                            2004-11-01           
-#> 2      MONTH ESTIMATE                                                 
-#> 3       YEAR ESTIMATE          1993-11-01        1995-11-01           
-#> 4       YEAR ESTIMATE                                       1994-06-19
+#> 1       YEAR ESTIMATE                <NA>        2004-11-01       <NA>
+#> 2      MONTH ESTIMATE                <NA>              <NA>       <NA>
+#> 3       YEAR ESTIMATE          1993-11-01        1995-11-01       <NA>
+#> 4       YEAR ESTIMATE                <NA>              <NA> 1994-06-19
 #> 5      MONTH ESTIMATE          2006-09-01        2007-01-01 2008-06-05
-#> 6      MONTH ESTIMATE          2002-11-01        2003-11-01           
+#> 6      MONTH ESTIMATE          2002-11-01        2003-11-01       <NA>
 #>   Death.Date.Accuracy Weaning.Date Weaning.Date.Accuracy
-#> 1                                                       
+#> 1                             <NA>                      
 #> 2                       2014-08-07        MONTH ESTIMATE
-#> 3                                                       
-#> 4       YEAR ESTIMATE                                   
-#> 5      MONTH ESTIMATE                                   
-#> 6
+#> 3                             <NA>                      
+#> 4       YEAR ESTIMATE         <NA>                      
+#> 5      MONTH ESTIMATE         <NA>                      
+#> 6                             <NA>
 ```
 
 ## Citation
@@ -162,7 +162,7 @@ citation("sbdrpdata")
 #> 
 #>   Last F (2025). _sbdrpdata: What the Package Does (One Line, Title
 #>   Case)_. R package version 0.0.0.9000, commit
-#>   e734afb7a9d0795cecdd9eb3c893939315e8cd71,
+#>   bd138412f2c46e69661649442fe1af0615055ed8,
 #>   <https://github.com/GeorgetownMannLab/sbdrpdata>.
 #> 
 #> A BibTeX entry for LaTeX users is
@@ -171,7 +171,7 @@ citation("sbdrpdata")
 #>     title = {sbdrpdata: What the Package Does (One Line, Title Case)},
 #>     author = {First Last},
 #>     year = {2025},
-#>     note = {R package version 0.0.0.9000, commit e734afb7a9d0795cecdd9eb3c893939315e8cd71},
+#>     note = {R package version 0.0.0.9000, commit bd138412f2c46e69661649442fe1af0615055ed8},
 #>     url = {https://github.com/GeorgetownMannLab/sbdrpdata},
 #>   }
 ```

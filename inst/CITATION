@@ -1,0 +1,14 @@
+citHeader("To cite sbdrpdata in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "sbdrpdata: Shark Bay Dolphin Project Data",
+  author   = "Janet Mann, Vivienne Foroughirad",
+  year     = 2025,
+  note     = "R package version 0.1.0",
+  doi      = "",
+  url      = "",
+  textVersion = paste(
+"Mann, J, Foroughriad, V (2025). sbdrpdata: Shark Bay Dolphin Project Data. R package version 0.1.0."
+  )
+)

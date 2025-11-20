@@ -5,8 +5,6 @@
 
 <!-- badges: start -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3960218.svg)](https://doi.org/10.5281/zenodo.3960218)
-
 <!-- badges: end -->
 
 The goal of sbdrpdata (shark bay dolphin research project data) is to
@@ -158,21 +156,18 @@ To cite the sbdrpdata package, please use:
 
 ``` r
 citation("sbdrpdata")
-#> To cite package 'sbdrpdata' in publications use:
+#> To cite sbdrpdata in publications use:
 #> 
-#>   Last F (2025). _sbdrpdata: What the Package Does (One Line, Title
-#>   Case)_. R package version 0.0.0.9000, commit
-#>   bd138412f2c46e69661649442fe1af0615055ed8,
-#>   <https://github.com/GeorgetownMannLab/sbdrpdata>.
+#>   Mann, J, Foroughriad, V (2025). sbdrpdata: Shark Bay Dolphin Project
+#>   Data. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {sbdrpdata: What the Package Does (One Line, Title Case)},
-#>     author = {First Last},
+#>     title = {sbdrpdata: Shark Bay Dolphin Project Data},
+#>     author = {Janet Mann and Vivienne Foroughirad},
 #>     year = {2025},
-#>     note = {R package version 0.0.0.9000, commit bd138412f2c46e69661649442fe1af0615055ed8},
-#>     url = {https://github.com/GeorgetownMannLab/sbdrpdata},
+#>     note = {R package version 0.1.0},
 #>   }
 ```
 

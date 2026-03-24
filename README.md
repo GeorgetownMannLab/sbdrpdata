@@ -160,7 +160,7 @@ To cite the sbdrpdata package, please use:
 citation("sbdrpdata")
 #> To cite sbdrpdata in publications use:
 #> 
-#>   Mann, J, Foroughriad, V (2025). sbdrpdata: Shark Bay Dolphin Project
+#>   Mann, J, Foroughirad, V (2025). sbdrpdata: Shark Bay Dolphin Project
 #>   Data. R package version 0.1.0.
 #> 
 #> A BibTeX entry for LaTeX users is

@@ -9,6 +9,6 @@ citEntry(
   doi      = "",
   url      = "",
   textVersion = paste(
-"Mann, J, Foroughriad, V (2025). sbdrpdata: Shark Bay Dolphin Project Data. R package version 0.1.0."
+"Mann, J, Foroughirad, V (2025). sbdrpdata: Shark Bay Dolphin Project Data. R package version 0.1.0."
   )
 )
